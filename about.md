@@ -3,6 +3,6 @@ layout: about
 title: About
 ---
 
-## About
+## Catherin Gatehi
 
-Hi, nice to meet you.
+Hello, I am currently a third year student doing Nursing and I have recently developed an interest in tech and I would like to learn more about tech.
