@@ -2,7 +2,7 @@
 layout: post
 title: How I have Built My Website
 subtitle: quick summary
-categories:Website
+categories: Website
 tags: [Github, Website]
 ---
 
