@@ -6,7 +6,6 @@ categories: Website
 tags: [Github, Website]
 ---
 
-
 1. I created a Github account
 2. I cloned a repository from  https://github.com/datamaunz
 3. I renamed the repository to Katey006.github.io
